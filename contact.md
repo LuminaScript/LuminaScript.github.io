@@ -5,4 +5,4 @@ title: Contact Me
 
 # Contact Me
 
-You can contact me at [your@email.com](mailto:your@email.com).
+You can contact me at zyizhen1998@outlook.com.
