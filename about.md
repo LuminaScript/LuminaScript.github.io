@@ -5,4 +5,4 @@ title: About Me
 
 # About Me
 
-This is where you can write about yourself.
+My name is Yizhen Zhang and I am a current M.S. Student at Columbia University.
